@@ -1,0 +1,11 @@
+yarn -v
+chocolatey -v
+node -v
+
+goweek/backend
+	//yarn init -y
+	yarn add express
+	yarn add mongoose
+	yarn add nodemon -D
+	yarn add socket.io
+	yarn add cors
